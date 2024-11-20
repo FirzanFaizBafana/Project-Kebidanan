@@ -118,7 +118,7 @@ body {
   left: 0;
   width: 100%; /* Span the entire width and height */
   height: 100%;
-  background-image: url("Screenshot\ 2024-11-17\ 113805.png"); /* Replace with your image path */
+  background-image: url("maxresdefault.jpg"); /* Replace with your image path */
   background-size: cover; /* Scale image to cover the container */
   background-position: center; /* Center the image horizontally and vertically */
 }
